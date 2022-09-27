@@ -1,0 +1,8 @@
+﻿<Driver type="c4z" name="smartcast-tv">
+ <Items>
+  <Item type="file" name="commands.lua" />
+  <Item type="file" name="driver.xml" />
+  <Item type="file" name="script.lua" />
+  <Item type="file" name="json.lua" />
+ </Items>
+</Driver>
